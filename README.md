@@ -1,8 +1,6 @@
 
 <h1 align="center">Greetings 👋, myself Prasad Kanade</h1>
 <h3 align="center">I am a software developer from India with an avid interest in Data Structures, Algorithms and Optimization.</h3>
-(img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/6139167-Avento-marketing")
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasad0411&label=Profile%20views&color=0e75b6&style=flat" alt="prasad0411" /> </p>
 
 - 🔭 I’m currently working on **a sponsored final year graduation project**
