@@ -3,11 +3,9 @@
 <h3 align="center">I am a software developer from India with an avid interest in Data Structures, Algorithms, and Optimization.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasad0411&label=Profile%20views&color=0e75b6&style=flat" alt="prasad0411" /> </p>
 
-- 🔭 I’m currently working on **a sponsored final year graduation project**
-
-- 🌱 I’m currently working on the project with the following technologies **Flutter, API integration, Firebase, and Cloud**
-
-- 📫 You can reach me at **prasadckanade@gmail.com**
+- 🔭 I’m currently on xyz project at Amdocs**
+- 
+- 📫 You can reach out to me at **prasadckanade@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
