@@ -1,9 +1,9 @@
 
 <h1 align="center">Greetings 👋, myself Prasad Kanade</h1>
-<h3 align="center">I am a software developer from India with an avid interest in Data Structures, Algorithms, and Optimization.</h3>
+<h3 align="center">I am a software engineering associate from India with an avid interest in Data Structures, Algorithms and Optimization.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasad0411&label=Profile%20views&color=0e75b6&style=flat" alt="prasad0411" /> </p>
 
-- 🔭 I’m currently on xyz project at Amdocs
+- 🔭 I’m currently working on CRM applications at Amdocs. 
 - 📫 You can reach out to me at **prasadckanade@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
