@@ -3,7 +3,7 @@
 <h3 align="center">I am a software engineer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasad0411&label=Profile%20views&color=0e75b6&style=flat" alt="prasad0411" /> </p>
 
-- 🔭 I’m currently working on CRM applications at Amdocs. 
+- 🔭 I was working on CRM and Ordering application at Amdocs India. 
 - 📫 You can reach out to me at **prasadckanade@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
