@@ -1,5 +1,5 @@
 
-<h1 align="center">Greetings 👋, myself Prasad Kanade</h1>
+<h1 align="center">Greetings👋, myself Prasad Kanade</h1>
 <h3 align="center">I am a software engineer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasad0411&label=Profile%20views&color=0e75b6&style=flat" alt="prasad0411" /> </p>
 
