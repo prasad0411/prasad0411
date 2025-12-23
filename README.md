@@ -84,13 +84,18 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/prasad-kanade-" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="20"/>
+    LinkedIn
   </a>
+  &nbsp;•&nbsp;
   <a href="https://www.leetcode.com/prasadckanade" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="20"/>
+    LeetCode
   </a>
+  &nbsp;•&nbsp;
   <a href="mailto:prasadckanade@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="20"/>
+    Email
   </a>
 </p>
 
