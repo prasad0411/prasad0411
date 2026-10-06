@@ -9,7 +9,7 @@
 
 ### 🚀 Current Focus
 
-- 💼 **Seeking:** Summer 2026 SDE Internships (USA)
+- 💼 **Seeking:** Spring 2027 SWE internship and full time job
 - 🎓 **Teaching:** Database Systems to 100+ grad students at Northeastern
 - 🔨 **Building:** Distributed job queue (Kafka), LLM code review bot, Real-time collab editor
 - 📚 **Learning:** Rust, Blockchain (Solidity), Transformer architectures
