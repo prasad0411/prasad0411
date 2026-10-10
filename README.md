@@ -100,5 +100,3 @@
 </p>
 
 ---
-
-<p align="center">💼 Actively seeking Summer 2026 SDE Internships | 🚀 Always building</p>
