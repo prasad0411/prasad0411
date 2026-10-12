@@ -1,11 +1,11 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,45:1f3a8a,100:4f46e5&height=150&section=header&text=Prasad%20Kanade&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=Full%20stack%20engineer%20%C2%B7%20Data%20pipelines%20and%20the%20web%20apps%20on%20top&descSize=16&descAlignY=68&animation=fadeIn" width="100%" alt="Prasad Kanade, full stack engineer" /></p>
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2800&pause=900&color=8B949E&center=true&vCenter=true&width=620&height=32&lines=React+and+TypeScript+frontends+on+tested+APIs;Python+pipelines+on+Google+Cloud;Published+ML+research%2C+Springer+2025" alt="React and TypeScript frontends on tested APIs; Python pipelines on Google Cloud; published ML research, Springer 2025" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=150&section=header&text=Prasad%20Kanade&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=Full%20stack%20engineer%20%C2%B7%20Data%20pipelines%20and%20the%20web%20apps%20on%20top&descSize=16&descAlignY=68&animation=fadeIn" width="100%" alt="Prasad Kanade, full stack engineer" /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2800&pause=900&color=9FB3C8&center=true&vCenter=true&width=620&height=32&lines=React+and+TypeScript+frontends+on+tested+APIs;Python+pipelines+on+Google+Cloud;Published+ML+research%2C+Springer+2025" alt="React and TypeScript frontends on tested APIs; Python pipelines on Google Cloud; published ML research, Springer 2025" /></p>
 
 <p align="center">
-  <a href="https://prasad0411.github.io/Prasad-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=flat-square&labelColor=161b22&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/prasad-kanade-"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&labelColor=161b22&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://link.springer.com/chapter/10.1007/978-981-97-9855-1_23"><img src="https://img.shields.io/badge/Springer_paper-2025-1f6feb?style=flat-square&labelColor=161b22&logo=springer&logoColor=white" alt="Springer paper" /></a>
-  <a href="mailto:prasadckanade@gmail.com"><img src="https://img.shields.io/badge/Email-prasadckanade%40gmail.com-1f6feb?style=flat-square&labelColor=161b22&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://prasad0411.github.io/Prasad-Portfolio/"><img src="https://img.shields.io/badge/-Portfolio-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2c5364" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/prasad-kanade-"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="https://link.springer.com/chapter/10.1007/978-981-97-9855-1_23"><img src="https://img.shields.io/badge/-Springer_paper_2025-1F8A70?style=for-the-badge&logo=springer&logoColor=white&labelColor=1F8A70" alt="Springer paper, 2025" /></a>
+  <a href="mailto:prasadckanade@gmail.com"><img src="https://img.shields.io/badge/-Email_me-C2410C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C2410C" alt="Email" /></a>
 </p>
 
 <p align="center">
