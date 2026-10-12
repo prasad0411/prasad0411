@@ -14,7 +14,7 @@ MS Computer Science, Northeastern University (May 2027) · Software Engineer, We
 | Project | What it does | Stack | Live |
 |---|---|---|---|
 | [**Job Market Intelligence**](https://github.com/prasad0411/job-market-intelligence) | A self maintaining pipeline over 29 sources: 211,130 postings evaluated, 94% filtered automatically, nightly history in BigQuery, and a public dashboard | Python · TypeScript · React · Redux Toolkit · FastAPI · BigQuery · dbt · Docker | [dashboard](https://prasad0411.github.io/job-market-intelligence/) |
-| [**Thyroid Panel Review**](https://github.com/prasad0411/thyroid-disease-classification) | Clinical decision support built on my [Springer paper](https://link.springer.com/chapter/10.1007/978-981-97-9855-1_23): calibrated XGBoost with SHAP explanations, an honest leakage audit, REST and GraphQL | React · TypeScript · Apollo · FastAPI · Docker · Cloud Run | [app](https://prasad0411.github.io/thyroid-disease-classification/) |
+| [**Thyroid Panel Review**](https://github.com/prasad0411/thyroid-disease-classification) | Clinical decision support built on my [Springer paper](https://link.springer.com/chapter/10.1007/978-981-97-9855-1_23): calibrated XGBoost with SHAP explanations, REST and GraphQL | React · TypeScript · Apollo · FastAPI · Docker · Cloud Run | [app](https://prasad0411.github.io/thyroid-disease-classification/) |
 | [**DEL Hit Explorer**](https://github.com/prasad0411/del-hit-explorer) | A DNA encoded library screen from FASTQ reads to ranked hits; streams 10 million reads in 18 seconds with flat memory | Python · pandas · React · TypeScript · Docker | [app](https://prasad0411.github.io/del-hit-explorer/) |
 
 ### Now
