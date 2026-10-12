@@ -1,102 +1,33 @@
-<h1 align="center">👋 Hello, I'm Prasad Kanade</h1>
-<h3 align="center">Full-Stack Engineer | Building Scalable Systems & AI/ML Solutions</h3>
+<h1 align="center">Hi, I'm Prasad Kanade</h1>
+<p align="center"><b>Full stack engineer</b> building the path from raw data to the screen where someone makes a decision:<br/>
+React and TypeScript frontends, Python and Java services, and the data pipelines behind them.</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Ex-SWE+%40+Amdocs;MS+CS+%40+Northeastern;Building+Distributed+Systems" alt="Typing SVG" />
+MS Computer Science, Northeastern University (May 2027) · Software Engineer, Web Applications at Amdocs (2023 to 2025)<br/>
+<b>Open to Spring 2027 internships and full time SDE roles</b>
 </p>
 
 ---
 
-### 🚀 Current Focus
+### Featured projects
 
-- 💼 **Seeking:** Spring 2027 SWE internship and full time job
-- 🎓 **Teaching:** Database Systems to 100+ grad students at Northeastern
-- 🔨 **Building:** Distributed job queue (Kafka), LLM code review bot, Real-time collab editor
-- 📚 **Learning:** Rust, Blockchain (Solidity), Transformer architectures
-- ⚡ **Recent Win:** Optimized DB queries serving 50M+ users with 60% performance improvement
+| Project | What it does | Stack | Live |
+|---|---|---|---|
+| [**Job Market Intelligence**](https://github.com/prasad0411/job-market-intelligence) | A self maintaining pipeline over 29 sources: 211,130 postings evaluated, 94% filtered automatically, nightly history in BigQuery, and a public dashboard | Python · TypeScript · React · Redux Toolkit · FastAPI · BigQuery · dbt · Docker | [dashboard](https://prasad0411.github.io/job-market-intelligence/) |
+| [**Thyroid Panel Review**](https://github.com/prasad0411/thyroid-disease-classification) | Clinical decision support built on my [Springer paper](https://link.springer.com/chapter/10.1007/978-981-97-9855-1_23): calibrated XGBoost with SHAP explanations, an honest leakage audit, REST and GraphQL | React · TypeScript · Apollo · FastAPI · Docker · Cloud Run | [app](https://prasad0411.github.io/thyroid-disease-classification/) |
+| [**DEL Hit Explorer**](https://github.com/prasad0411/del-hit-explorer) | A DNA encoded library screen from FASTQ reads to ranked hits; streams 10 million reads in 18 seconds with flat memory | Python · pandas · React · TypeScript · Docker | [app](https://prasad0411.github.io/del-hit-explorer/) |
 
----
+### Now
+- 💼 Seeking Spring 2027 internships and full time SDE roles
+- 🔨 Building data pipelines and the web apps that sit on top of them
+- 🎓 Teaching assistant, Database Systems, 100+ students
 
-## 💻 Tech Stack
-
-**Languages:**  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36"/>
-</p>
-
-**Backend & Frameworks:**  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="36"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="36"/>
-</p>
-
-**Frontend:**  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36"/>
-</p>
-
-**Databases & Messaging:**  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="36"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="36"/>
-</p>
-
-**Cloud & DevOps:**  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="36"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="36"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36"/>
-</p>
-
-**AI / Data:**  
-<p>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="36"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="36"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36"/>
-</p>
-
-**Tools & Platforms:**  
-<p>
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="36"/>
-</p>
-
----
-
-### 📫 Let's Connect
+### Tech
 
 <p align="center">
-  <a href="https://linkedin.com/in/prasad-kanade-" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="20"/>
-    LinkedIn
-  </a>
-  &nbsp;•&nbsp;
-  <a href="https://www.leetcode.com/prasadckanade" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="20"/>
-    LeetCode
-  </a>
-  &nbsp;•&nbsp;
-  <a href="mailto:prasadckanade@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="20"/>
-    Email
-  </a>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,java,react,redux,nodejs,express,spring,fastapi,graphql,postgres,mongodb,redis,docker,githubactions,gcp,aws,terraform,linux&perline=10" alt="Tech stack" />
 </p>
 
----
+### Elsewhere
+
+[Portfolio](https://prasad0411.github.io/Prasad-Portfolio/) · [LinkedIn](https://linkedin.com/in/prasad-kanade-) · [LeetCode](https://www.leetcode.com/prasadckanade) · [Email](mailto:prasadckanade@gmail.com)
